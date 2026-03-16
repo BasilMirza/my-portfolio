@@ -6,11 +6,7 @@ The portfolio highlights several full-stack and AI-based projects including deve
 
 ## Live Website
 
-After deployment the portfolio will be available at:
-
-https://basilmirza.vercel.app
-
-(Custom domain coming soon)
+https://basilmirza.vercel.app/
 
 ## Tech Stack
 
