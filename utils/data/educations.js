@@ -1,20 +1,15 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
-  },
-  {
-    id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+    title: "Master in Computer & Information Science",
+    duration: "2023 – 2025",
+    institution: "Roosevelt University — Chicago, IL",
+    description: [
+  "Built prototype projects applying machine learning techniques including data preprocessing, model training, and evaluation.",
+  "Developed systems-level programs focusing on memory management, process handling, and operating system concepts.",
+  "Explored data mining techniques for pattern discovery, predictive analytics, and large dataset analysis.",
+  "Applied concepts from game theory and intelligent systems to design decision-making and optimization algorithms.",
+  "Strengthened foundations in algorithms, system design, and scalable software architecture."
 ]
+  }
+];

@@ -10,9 +10,18 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Basil Mirza | Full-Stack Software Engineer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Full-Stack Software Engineer specializing in React, Next.js, Django, and scalable backend systems.",
+  keywords: [
+    "Basil Mirza",
+    "Full Stack Engineer",
+    "React Developer",
+    "Next.js Developer",
+    "Python Developer",
+    "Django Developer",
+    "Software Engineer Chicago"
+  ]
 };
 
 export default function RootLayout({ children }) {
